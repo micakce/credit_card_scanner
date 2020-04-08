@@ -38,8 +38,8 @@ implementation. Have fun!
 
 Given the little data there is to train, the model did a good job predicting
 the masks, it shouldn't be hard to train it further on more data and get much
-better results. On the other hand, even though a life images text recognition
-approach was used, the results weren't any good, that is given the complexity
+better results. On the other hand, even though a natural scenes text detection
+approch was used, the results weren't any good, that is given the complexity
 of text we can find in real life objects, and it makes sense credict cards are
 not taken that much into account when building this kind of models. A lot of work
 to do on the text detection and recognition part.
